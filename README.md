@@ -1,4 +1,4 @@
-# Arctic-Challenge-Hackathon
+# Arctic-Challenge-Hackathon, Sweden
 
 ## Noise Level Monitoring application for classrooms
 
