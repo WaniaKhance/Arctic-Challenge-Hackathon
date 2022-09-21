@@ -2,7 +2,8 @@
 
 ## Noise Level Monitoring application for classrooms
 
-## Awarded 1st Prize :trophy: on winning the hackathon
+## Awarded 1st Prize :trophy: on winning the hackathon  (https://arcticchallenge.se/)
+
 
 A Hackathon focusing on Blockchain, 5G, Lora WAN, IoT Platform, Edge Computing, Information security and more held in Skelleftea, Sweden.  Worked on a sound challenge where the noise level in the room is identified. A webpage is designed to show the noise level of the room specifically in a classroom. In this project, different noise levels are analyzed. 
 
